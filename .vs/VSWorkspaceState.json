@@ -1,0 +1,15 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "build"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\include",
+    "\\src",
+    "\\tests"
+  ],
+  "SelectedNode": "\\external",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/VIPUSTI/Desktop/advanced_physics_lib/build/_deps/googletest-src/googlemock/CMakeLists.txt
+  gtest-all.cc
+  gmock-all.cc
+  Generating Code...
+  gmock.vcxproj -> C:\Users\VIPUSTI\Desktop\advanced_physics_lib\build\lib\Debug\gmockd.lib

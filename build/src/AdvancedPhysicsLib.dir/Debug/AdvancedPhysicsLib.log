@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/VIPUSTI/Desktop/advanced_physics_lib/src/CMakeLists.txt
+  Force.cpp
+  Particle.cpp
+  QuantumFluctuation.cpp
+  Relativity.cpp
+  Generating Code...
+  AdvancedPhysicsLib.vcxproj -> C:\Users\VIPUSTI\Desktop\advanced_physics_lib\build\src\Debug\AdvancedPhysicsLib.lib

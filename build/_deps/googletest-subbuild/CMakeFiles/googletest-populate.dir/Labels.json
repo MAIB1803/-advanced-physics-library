@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/VIPUSTI/Desktop/advanced_physics_lib/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate"
+		},
+		{
+			"file" : "C:/Users/VIPUSTI/Desktop/advanced_physics_lib/build/_deps/googletest-subbuild/CMakeFiles/b6da20c62c2b9b47d744cff9dd9e38e4/googletest-populate.rule"
+		},
+		{
+			"file" : "C:/Users/VIPUSTI/Desktop/advanced_physics_lib/build/_deps/googletest-subbuild/CMakeFiles/7549558668b3dffa4bb1319ec5107f6f/googletest-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/VIPUSTI/Desktop/advanced_physics_lib/build/_deps/googletest-subbuild/CMakeFiles/227d3c90750bd8792f48f988a3a05400/googletest-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/VIPUSTI/Desktop/advanced_physics_lib/build/_deps/googletest-subbuild/CMakeFiles/227d3c90750bd8792f48f988a3a05400/googletest-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/VIPUSTI/Desktop/advanced_physics_lib/build/_deps/googletest-subbuild/CMakeFiles/227d3c90750bd8792f48f988a3a05400/googletest-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/VIPUSTI/Desktop/advanced_physics_lib/build/_deps/googletest-subbuild/CMakeFiles/227d3c90750bd8792f48f988a3a05400/googletest-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/VIPUSTI/Desktop/advanced_physics_lib/build/_deps/googletest-subbuild/CMakeFiles/227d3c90750bd8792f48f988a3a05400/googletest-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/VIPUSTI/Desktop/advanced_physics_lib/build/_deps/googletest-subbuild/CMakeFiles/227d3c90750bd8792f48f988a3a05400/googletest-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/VIPUSTI/Desktop/advanced_physics_lib/build/_deps/googletest-subbuild/CMakeFiles/227d3c90750bd8792f48f988a3a05400/googletest-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/VIPUSTI/Desktop/advanced_physics_lib/build/_deps/googletest-subbuild/CMakeFiles/227d3c90750bd8792f48f988a3a05400/googletest-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest-populate"
+		],
+		"name" : "googletest-populate"
+	}
+}
